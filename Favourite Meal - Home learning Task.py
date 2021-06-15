@@ -1,0 +1,7 @@
+name = input("Hi, What is your name?")
+print("Hi, " + name + ". Let's talk about food!")
+starter = input("What is your favourite starter course?")
+main = input("What main course would you have next?")
+dessert = input("What would be your favourite dessert?")
+drink = input("What would your favourite beverage be to accompany this delicious meal?")
+print("That sounds very tasty, " + name + ". Your favourite meal is " + starter + ", followed by a main of " + main + ", topped off with a pudding of " + dessert + ". Accompanied with a glass of " + drink + ". You are making me hungry!")
